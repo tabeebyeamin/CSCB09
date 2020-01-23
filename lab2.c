@@ -56,7 +56,12 @@ A is an array of length size of doubles. Your task is to set some of the values 
 positions is an array of length size_positions of integers that represent that indices
 of the elements of A that you should reset.
 */
-No solution?
+for (int i = 0; i < size_positions; i++)
+{
+    A[positions[i]] = 0.0;
+}    
+    
+
 
 
 /*Array Reflections
