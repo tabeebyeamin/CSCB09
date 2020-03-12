@@ -29,7 +29,7 @@ int main() {
     } 
     /*
     child executes validate, closes the end of the pipe
-    it doesn't need.
+    it doesn't need. (good practice)
     */
     else if(pid == 0) {
         // receiving data from parent process
