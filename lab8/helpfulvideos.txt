@@ -1,0 +1,7 @@
+Forks and Exec:
+https://www.youtube.com/watch?v=l64ySYHmMmY
+
+Pipes and Dup2:
+https://www.youtube.com/watch?v=FcUlMsVX7aE
+https://www.youtube.com/watch?v=EL4hCQc7KXY
+https://www.youtube.com/watch?v=pO1wuN3hJZ4
